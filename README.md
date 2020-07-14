@@ -4,7 +4,7 @@ A desktop application Shoppinglist built using Electron JS.
 To run this project, first perform an npm install, so that dependencies are satisfied.
 
 run the following command from terminal or git-bash or command prompt
-`npm install`
+`npm install` inside project directory
 
 after the dependencies are installed, run
 `npm start`
