@@ -12,7 +12,7 @@
   "author": "Ali Lakhani",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.1.0"
+    "electron": "^9.4.0"
   },
   "devDependencies": {
     "electron-packager": "^15.0.0"
